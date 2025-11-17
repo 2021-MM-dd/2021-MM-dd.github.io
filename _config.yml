@@ -1,0 +1,10 @@
+title: 我的GitHub博客
+description: 这是我的 Jekyll + GitHub Pages 博客
+theme: jekyll-theme-cayman
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+
+# 显示文章列表
+paginate: 5
