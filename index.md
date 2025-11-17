@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 鹤鹤Tech&DevNotes
+title: 首页
 ---
 
 # 欢迎来到我的 GitHub 博客
